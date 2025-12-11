@@ -16,9 +16,9 @@ Este proyecto es una plataforma sencilla desarrollada en **PHP + MySQL** que per
 - Script para crear administradores manualmente al inicio (`insertar_admin.php`)
 
 ## Tecnologías utilizadas
-- **PHP** 
-- **MySQL**
-- **HTML + CSS**
+- Backend: **PHP** 
+- Base de datos: **MySQL**
+- Frontend: **HTML + CSS**
 - Scripts de prueba:
   - `.sh` para testear desde terminal.
   - `.js` para pruebas de API cliente.
