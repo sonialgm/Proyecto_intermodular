@@ -1,6 +1,6 @@
 # Proyecto intermodular - Conversaciones Anónimas
 
-Este proyecto es una plataforma sencilla desarrollada en **PHP + MySQL** que permite a los usuarios iniciar y participar en conversaciones forma anónima.
+Este proyecto es una plataforma sencilla desarrollada en **PHP + MySQL** que permite a los usuarios iniciar y participar en conversaciones de forma anónima.
 
 ## Funcionalidades principales
 
